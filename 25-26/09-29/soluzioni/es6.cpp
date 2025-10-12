@@ -23,8 +23,8 @@ int main() {
     //tradotto in while:
     i = 0;
     while (i < 10) {
-	sum += i;
-	i++;
+	    sum += i;
+	    i++;
     }
     cout << sum << endl;
 
@@ -34,7 +34,7 @@ int main() {
     sum = 0;
     i = 10;
     while (i) {
-	sum += --i;
+	    sum += --i;
     }
     cout << sum << endl;
 

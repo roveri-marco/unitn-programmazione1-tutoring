@@ -23,9 +23,9 @@ int main() {
 
     
     while (N != 0) {
-	int resto = N % 2;
-	cout << "| " << resto << endl;	
-	N = N / 2;
+	    int resto = N % 2;
+	    cout << "| " << resto << endl;	
+	    N = N / 2;
     }
 
 
