@@ -1,0 +1,16 @@
+https://example.com
+http://localhost:8080/dashboard
+https://en.wikipedia.org/wiki/URL
+ftp://fileserver.internal/uploads?recursive=true
+https://api.service.net/v1/users?id=42&debug=false
+http://192.168.1.20
+https://portal.ciao.com:8443/login
+http://intranet.local/docs/getting-started
+ftp://backup.server:21/full-backup
+https://myapp.dev/settings/profile?view=compact
+http://test-node:3000
+https://services.cloud.example.org/api?token=abc123&verbose=1
+ftp://10.0.0.5:2121
+http://demo-site.fakeblog/blog/2025/01/intro
+https://cdn.assets.example.com/images/logo.png
+http://lab-machine.local:5000/metrics?format=json
